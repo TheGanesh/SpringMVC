@@ -2,8 +2,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ganesh</groupId>
-    <artifactId>tiny-app</artifactId>
-    <name>tiny-app</name>
+    <artifactId>SpringMVC</artifactId>
+    <name>SpringMVC</name>
     <version>1.0</version>
     <packaging>war</packaging>
 
@@ -142,7 +142,6 @@
     </dependencies>
 
     <build>
-        <finalName>tiny-app</finalName>
 
         <pluginManagement>
 
